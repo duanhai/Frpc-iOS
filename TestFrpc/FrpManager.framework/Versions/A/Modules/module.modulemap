@@ -1,0 +1,8 @@
+framework module "FrpManager" {
+	header "ref.h"
+    header "FrpManager.objc.h"
+    header "universe.objc.h"
+    header "FrpManager.h"
+
+    export *
+}
